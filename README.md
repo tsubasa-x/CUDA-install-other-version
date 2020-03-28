@@ -1,4 +1,4 @@
-# CUDA reinstall other version
+# CUDA install other version
 ## Delete the original CUDA
 ```
 sudo apt-get --purge remove "*cublas*" "cuda*"
